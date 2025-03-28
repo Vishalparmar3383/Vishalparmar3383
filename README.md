@@ -29,11 +29,8 @@ I'm a passionate **Full-Stack Developer** and **Python Enthusiast** with a focus
 ---
 
 ### 🚀 **Featured Projects:**  
-- **[Project 1: Full-Stack E-commerce Website](https://github.com/VishalParmar/project1)**  
+- **[Project 1: Full-Stack E-commerce Website](https://github.com/Vishalparmar3383/sem-3/my-project)**  
   A responsive e-commerce site built using **React**, **Node.js**, **Express**, and **MongoDB**.
-
-- **[Project 2: Python Cybersecurity Tools](https://github.com/VishalParmar/project2)**  
-  A collection of Python scripts for ethical hacking, including port scanning, brute-force tools, and network sniffers.
 
 ---
 
