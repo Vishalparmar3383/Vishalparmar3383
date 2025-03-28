@@ -29,7 +29,7 @@ I'm a passionate **Full-Stack Developer** and **Python Enthusiast** with a focus
 ---
 
 ### 🚀 **Featured Projects:**  
-- **[Project 1: Full-Stack E-commerce Website](https://github.com/Vishalparmar3383/sem-3/my-project)**  
+- **[Project 1: Full-Stack E-commerce Website](https://github.com/Vishalparmar3383/sem-3/tree/main/my-project)**  
   A responsive e-commerce site built using **React**, **Node.js**, **Express**, and **MongoDB**.
 
 ---
