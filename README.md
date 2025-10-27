@@ -23,8 +23,8 @@ I'm a passionate **Full-Stack Developer** and **Python Enthusiast** with a focus
 ---
 
 ### 📈 **GitHub Stats:**  
-![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishalParmar&show_icons=true&theme=tokyonight)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalParmar&layout=compact&theme=tokyonight)](https://github.com/VishalParmar)
+![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishalparmar3383&show_icons=true&theme=tokyonight)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalparmar3383&layout=compact&theme=tokyonight)](https://github.com/VishalParmar)
 
 ---
 
